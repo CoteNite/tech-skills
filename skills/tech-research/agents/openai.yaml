@@ -1,0 +1,5 @@
+interface:
+  display_name: "Tech Research"
+  short_description: "甲方需求的前期技术实现调研报告"
+policy:
+  allow_implicit_invocation: false
